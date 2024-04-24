@@ -1,0 +1,35 @@
+table {
+    display: table;
+    
+    box-sizing: border-box;
+    text-indent: initial;
+    unicode-bidi: isolate;
+    border-spacing: 2px;
+    border-color: gray;
+}
+
+.infobox {
+    border: 1px solid #a2a9b1;
+    border-spacing: 0px;
+    background-color: #f8f9fa;
+    color: black;
+    margin: 0.5em 0 0.5em 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+    font-size: 88%;
+    line-height: 1.5em;
+}
+
+.infobox_v2 {
+    background: #f9f9f9;
+    color: #000;
+    font-size: 90%;
+    line-height: 1.1em;
+    float: right;
+    clear: right;
+    margin: 0.5em 0 0.5em 1em;
+    width: 23em;
+    border: 1px solid #aaa;
+    padding: 2px;
+}
